@@ -1,4 +1,6 @@
-﻿Imports System.Globalization
+'https://github.com/laomms/SqliteTest2
+
+Imports System.Globalization
 Imports System.IO
 
 Public Class Form1
