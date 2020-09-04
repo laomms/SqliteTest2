@@ -1,4 +1,6 @@
-﻿Imports System.Data.SQLite
+'https://github.com/laomms/SqliteTest2
+
+Imports System.Data.SQLite
 Imports System.Text
 Imports System.Threading
 Imports System.Windows.Forms
